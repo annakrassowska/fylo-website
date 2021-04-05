@@ -171,9 +171,9 @@ button:hover {
     display: flex;
 }
 .person-image {
+    height:60px;
     border-radius: 100px;
     width: 60px;
-    height: 60px;
 }
 .person-data {
     padding: 0 20px;
